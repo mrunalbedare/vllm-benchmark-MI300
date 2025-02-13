@@ -1,0 +1,5 @@
+model,throughput_tot (tok/sec),throughput_gen (tok/sec),tp,requests,input_len,output_len,dtype
+Mistral-7B-Instruct-v0.3,18144,9072,2,4000,128,128,float16
+Mistral-7B-Instruct-v0.3,24850,1461,2,3000,2048,128,float16
+Mistral-7B-Instruct-v0.3,5806,5465,2,3000,128,2048,float16
+Mistral-7B-Instruct-v0.3,7527,3763,2,1500,2048,2048,float16
