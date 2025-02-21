@@ -1,0 +1,4 @@
+model,throughput_tot (tok/sec),throughput_gen (tok/sec),tp,requests,input_len,output_len,dtype
+Qwen2-72B-Instruct,3321,1660,2,4000,128,128,float16
+Qwen2-72B-Instruct,4381,257,2,3000,2048,128,float16
+Qwen2-72B-Instruct,1876,1766,2,3000,128,2048,float16
